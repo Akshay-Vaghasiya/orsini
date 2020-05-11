@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Products>
+	<Product>
+		<Identifier>00010</Identifier>
+		<Manufacturer>HP</Manufacturer>
+		<Name>ProBook 655 F1P82EA</Name>
+		<Product_url>http://www.example.com/products/00010/probook_655.html</Product_url>
+		<Price>4033</Price>
+		<Image_url>http://www.example.com/images/pb655.jpg</Image_url>
+		<Category>Calculatoare>Laptop</Category>
+		<Description>Tipul de produs: Notebook...</Description>
+		<Delivery_Time>1 zile</Delivery_Time>
+		<Delivery_Cost>20 RON</Delivery_Cost>
+		<EAN_code>8806088369228</EAN_code>
+		<Attributes>
+			<Attribute>
+				<Attribute_name>Capacitate memorie</Attribute_name>
+				<Attribute_value>8 GB</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Rezolutie ecran</Attribute_name>
+				<Attribute_value>1920 x 1080</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Capacitate Hard Disk</Attribute_name>
+				<Attribute_value>128 GB</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Bluetooth</Attribute_name>
+				<Attribute_value>Da</Attribute_value>
+			</Attribute>
+		</Attributes>
+	</Product>
+	<Product>
+		<Identifier>00011</Identifier>
+		<Manufacturer>Canon</Manufacturer>
+		<Name>EF 50mm f/1.8 STM 0570C005AA</Name>
+		<Product_url>http://www.example.com/products/00011/ef-50mm-stm.html</Product_url>
+		<Price>520</Price>
+		<Image_urle>http://www.example.com/images/ef-50mm-stm.jpg</Image_urle>
+		<Category>Electronice>Obiectiv aparat foto</Category>
+		<Description>Canon EF 50mm f/1.8 STM este un obiectiv DSLR pe montura Canon EF...</Description>
+		<Delivery_Time>7 zile</Delivery_Time>
+		<Delivery_Cost>FREE</Delivery_Cost>
+		<EAN_code>0885909934140</EAN_code>
+		<Attributes>
+			<Attribute>
+				<Attribute_name>Compatibil cu tip montare baioneta</Attribute_name>
+				<Attribute_value>Baioneta Canon</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Distanta focala</Attribute_name>
+				<Attribute_value>50 mm</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Numar de lamele ale diafragmei</Attribute_name>
+				<Attribute_value>7</Attribute_value>
+			</Attribute>
+			<Attribute>
+				<Attribute_name>Greutate</Attribute_name>
+				<Attribute_value>160 g</Attribute_value>
+			</Attribute>
+		</Attributes>
+	</Product>
+</Products>
